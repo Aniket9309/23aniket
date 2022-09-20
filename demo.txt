@@ -2,7 +2,7 @@ This is demo code for 23 july batch
 
 topic covered opss
 collection
-array
+
 
 we are working on repository git functionaity
 
